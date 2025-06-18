@@ -11,14 +11,10 @@
             "id": "7fc91a5c98776da1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/resources/Shells.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shells"
+              "title": "New tab"
             }
           }
         ]
@@ -205,9 +201,9 @@
   },
   "active": "7fc91a5c98776da1",
   "lastOpenFiles": [
+    "notes/resources/Shells.md",
     "notes/cheatsheets/git test.md",
     "2025-06-18.md",
-    "notes/resources/Shells.md",
     "obsidian.zip",
     "notes/tools/transferring files.md",
     "planning box notes.md",
