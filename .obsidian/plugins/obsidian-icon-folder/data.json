@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🖋",
+      "✏",
+      "📸",
+      "💰",
+      "📖"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "debugMode": false,
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
+  },
+  "Personal": "LiUserRoundCog",
+  "Journal": "📖",
+  "z_Assets": "LiArchive",
+  "Blue": "🚠",
+  "Technical": "👨‍💻",
+  "Persoanl": "🏌",
+  "Z_assets": "🌦",
+  "Z_pdfs": "🔖",
+  "Business": "💰",
+  "Vlog": "📸",
+  "Blog": "🖋"
+}

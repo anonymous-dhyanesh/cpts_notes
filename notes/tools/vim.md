@@ -1,0 +1,14 @@
+- `vim file` – Open file  
+- `Esc + i` – Insert mode  
+- `Esc` – Normal mode  
+- `x` – Cut character  
+- `dw` – Cut word  
+- `dd` – Cut full line  
+- `yw` – Copy word  
+- `yy` – Copy full line  
+- `p` – Paste  
+- `:1` – Go to line 1  
+- `:w` – Save  
+- `:q` – Quit  
+- `:q!` – Quit without saving  
+- `:wq` – Save and quit  

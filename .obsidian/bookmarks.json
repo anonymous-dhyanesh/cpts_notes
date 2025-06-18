@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1718117209122,
+      "path": "Organisation/Tickets Home.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1739637510805,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-15.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2024-12-06.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2024-12-11.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2024-12-12.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-04.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-05.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-06.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-07.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-10.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-13.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739637503122,
+          "path": "Journal/2025-02-14.md"
+        }
+      ],
+      "title": "Daily"
+    }
+  ]
+}

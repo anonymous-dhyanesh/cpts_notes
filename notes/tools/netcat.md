@@ -1,0 +1,3 @@
+- `netcat 10.10.10.10 22` – Grab banner  
+- `nc -lvnp 1234` – Start listener  
+- `nc 10.10.10.1 1234` – Connect to bind shell  

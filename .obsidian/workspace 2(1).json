@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "76b4f9af433baaaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "11117b6ca9c0076d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b6a0590e464e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8S Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99dc0f7ba9d7af85",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eefa41672d13a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02711948a6724a13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe71582f63da77f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#so_good_they_cant_ignore_you",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a433d8df01968f24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80888e6d5f235fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f626a74ece7b09c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc39babd6aa9bc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "K8S Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2aff482127096228",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "K8S Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd1102b2d1bb30bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56bfb253782facf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "K8S Basics.md"
+              }
+            }
+          },
+          {
+            "id": "b3e49bae0bc1eb04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+    }
+  },
+  "active": "74b6a0590e464e21",
+  "lastOpenFiles": [
+    "2024-03-10.md",
+    "PIP.txt",
+    "Technical/Self-Improvement/Bulletproof.md",
+    "K8S Basics.md",
+    "Z_SGTCIY/Plan next 3 months.md",
+    "Life Starts Here.md",
+    "Migrated/WishList.md",
+    "FlashG",
+    "Z_SGTCIY/Journal/Day 2024.03.10.md",
+    "Z_SGTCIY/Areas and Options.md",
+    "Z_SGTCIY/Journal",
+    "Z_SGTCIY",
+    "CODELANGUAGE/Azure notes here.md",
+    "Work/Testing LendingFlow Rules.md",
+    "Technical/Self-Improvement/High-Vis.md",
+    "Technical/Azure/NATS KV Store.md",
+    "Technical/Azure/Cache aside pattern.md",
+    "Technical/Azure/Azure Redis Cache.md",
+    "Technical/Azure/Azure Distributed Caching.md",
+    "Home/Leak.md",
+    "Templates",
+    "textgenerator/prompts/trash/huggingface/summarizeBART.md",
+    "textgenerator/prompts/trash/huggingface/completeTextBloom.md",
+    "textgenerator/prompts/trash/huggingface/classify-bart-large-mnli.md",
+    "textgenerator/prompts/trash/huggingface",
+    "textgenerator/prompts/trash",
+    "textgenerator/prompts/huggingface/summarizeBART.md",
+    "textgenerator/prompts/huggingface/completeTextBloom.md",
+    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
+    "textgenerator/prompts/huggingface",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Untitled.canvas",
+    "Activating the potentials again here.md"
+  ]
+}

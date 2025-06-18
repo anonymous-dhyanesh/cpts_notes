@@ -1,0 +1,8 @@
+- `./linpeas.sh` – Run LinPEAS  
+- `sudo -l` – List sudo privileges  
+- `sudo -u user /bin/echo Hello World!` – Run as user  
+- `sudo su -` – Root shell  
+- `sudo su user -` – Switch user  
+- `ssh-keygen -f key` – Generate SSH key  
+- `echo "ssh-rsa AAAAB... user@parrot" >> /root/.ssh/authorized_keys` – Add key to authorized  
+- `ssh root@10.10.10.10 -i key` – SSH using key  

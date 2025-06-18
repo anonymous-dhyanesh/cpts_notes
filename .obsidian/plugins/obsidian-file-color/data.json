@@ -1,0 +1,145 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "iuAnBdIUO6lC9FwKWcg6y",
+      "name": "red",
+      "value": "#e25050"
+    },
+    {
+      "id": "5cQ7t4zD40rrOTwRBLrkJ",
+      "name": "purple",
+      "value": "#6fcea1"
+    },
+    {
+      "id": "bmJlzhD89u7qhg2-xOlLi",
+      "name": "light purple",
+      "value": "#ab7ec4"
+    },
+    {
+      "id": "_d6vwqtIp7tYO_KDcipKe",
+      "name": "blue",
+      "value": "#4691e2"
+    },
+    {
+      "id": "rWK7ikQZ_9IvT-fIEIh5M",
+      "name": "amber",
+      "value": "#ffae00"
+    },
+    {
+      "id": "OlTd2c6do3Im_AmiYrUIr",
+      "name": "green",
+      "value": "#1fbd00"
+    },
+    {
+      "id": "OIGlsyo0wKJGISdlO-fOx",
+      "name": "dark red",
+      "value": "#df2020"
+    },
+    {
+      "id": "H-XKqrpNraEoN2nqqRuM0",
+      "name": "dark purple",
+      "value": "#a947d7"
+    },
+    {
+      "id": "zJw8N_VesIjnCt39NjbPh",
+      "name": "dark blue",
+      "value": "#1d5bbf"
+    },
+    {
+      "id": "0JPvvo39W-tJLGmeqRsDw",
+      "name": "brown",
+      "value": "#b97b41"
+    },
+    {
+      "id": "90emuIaM-n6Ez7GL2FVgQ",
+      "name": "dark green",
+      "value": "#65c153"
+    },
+    {
+      "id": "q9l_6YdLYNcODcyTS50Ci",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "UB9LTF2EQ9-ODE2LCUvxP",
+      "name": "",
+      "value": "#737373"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Organisation/Tickets Home.md",
+      "color": "iuAnBdIUO6lC9FwKWcg6y"
+    },
+    {
+      "path": "Journal",
+      "color": "OlTd2c6do3Im_AmiYrUIr"
+    },
+    {
+      "path": "Blue",
+      "color": "_d6vwqtIp7tYO_KDcipKe"
+    },
+    {
+      "path": "Common Issues",
+      "color": "iuAnBdIUO6lC9FwKWcg6y"
+    },
+    {
+      "path": "Meetings",
+      "color": "rWK7ikQZ_9IvT-fIEIh5M"
+    },
+    {
+      "path": "Organisation",
+      "color": "90emuIaM-n6Ez7GL2FVgQ"
+    },
+    {
+      "path": "Projects",
+      "color": "OIGlsyo0wKJGISdlO-fOx"
+    },
+    {
+      "path": "Setups",
+      "color": "0JPvvo39W-tJLGmeqRsDw"
+    },
+    {
+      "path": "z_Assets",
+      "color": "_d6vwqtIp7tYO_KDcipKe"
+    },
+    {
+      "path": "HOME/DASH.md",
+      "color": "bmJlzhD89u7qhg2-xOlLi"
+    },
+    {
+      "path": "HOME",
+      "color": "rWK7ikQZ_9IvT-fIEIh5M"
+    },
+    {
+      "path": "Persoanl",
+      "color": "rWK7ikQZ_9IvT-fIEIh5M"
+    },
+    {
+      "path": "Technical",
+      "color": "iuAnBdIUO6lC9FwKWcg6y"
+    },
+    {
+      "path": "Z_assets",
+      "color": "5cQ7t4zD40rrOTwRBLrkJ"
+    },
+    {
+      "path": "Business",
+      "color": "bmJlzhD89u7qhg2-xOlLi"
+    },
+    {
+      "path": "Z_pdfs",
+      "color": "0JPvvo39W-tJLGmeqRsDw"
+    },
+    {
+      "path": "Vlog",
+      "color": "UB9LTF2EQ9-ODE2LCUvxP"
+    },
+    {
+      "path": "Blog",
+      "color": "q9l_6YdLYNcODcyTS50Ci"
+    }
+  ]
+}
