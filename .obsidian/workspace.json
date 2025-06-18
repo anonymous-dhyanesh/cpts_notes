@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0286584e87476bc9",
+        "id": "34de2a7a3a190689",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee7c4a90df594b4",
+            "id": "7fc91a5c98776da1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/resources/Shells.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shells"
-            }
-          },
-          {
-            "id": "43146bc9308806c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/resources/Shells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shells"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +195,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43146bc9308806c2",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
-    "obsidian.zip",
+    "2025-06-18.md",
     "notes/resources/Shells.md",
+    "obsidian.zip",
     "notes/tools/transferring files.md",
     "planning box notes.md",
     "notes/how to take notes.md",
@@ -265,7 +248,6 @@
     "Business/Journal/Technical/Migrated/assets/iqueryable-dbcontext-everywhere.jpg",
     "Business/Journal/Technical/Migrated/assets/image4.png",
     "Business/Journal/Technical/Migrated/assets/image3.png",
-    "Business/Journal/Technical/Migrated/assets/Brand.psd",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
