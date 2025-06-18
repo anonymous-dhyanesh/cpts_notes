@@ -11,10 +11,14 @@
             "id": "7fc91a5c98776da1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/cheatsheets/git test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "git test"
             }
           }
         ]
@@ -199,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "7fc91a5c98776da1",
   "lastOpenFiles": [
+    "notes/cheatsheets/git test.md",
     "2025-06-18.md",
     "notes/resources/Shells.md",
     "obsidian.zip",
@@ -227,7 +232,6 @@
     "notes/tools/nmap.md",
     "example.md",
     "().md",
-    "notes/Shells.md",
     "images/Pasted image 20250616135935.png",
     "images/Pasted image 20250616140153.png",
     "images/Pasted image 20250616140901.png",
