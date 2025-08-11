@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f4f3e95faf5c2d48","type":"text","text":"goodbooks","x":-8,"y":-435,"width":145,"height":50},
+		{"id":"96b9c743bba0e12e","type":"text","text":"https://www.goodreads.com/user/show/129938010?fbclid=PAZXh0bgNhZW0CMTEAAae8yHtIeuIiqR9nLIdwBTt3AU_TT8VPqG78egAUGLKGsJzwzQSu45sHeMsLMg_aem_57NMMNTR07BQbyip3-LcSQ","x":-25,"y":-525,"width":180,"height":50},
+		{"id":"b77878d339ad6855","type":"text","text":"evelina_dlk","x":-238,"y":-525,"width":178,"height":50},
+		{"id":"2f01c6760eb07b7e","type":"text","text":"instagram","x":-200,"y":-435,"width":140,"height":50},
+		{"id":"2a38ed4e7f89bf41","type":"text","text":"pinterest  : edemega","x":-173,"y":-620,"width":250,"height":60},
+		{"id":"058b67c844d9a879","type":"text","text":"social media","x":-130,"y":-345,"width":188,"height":60},
+		{"id":"c92127101a5cd6a2","type":"text","text":"evelina_dlk","x":-138,"y":-225,"width":180,"height":80,"color":"5"},
+		{"id":"1f1d902b2c106363","type":"text","text":"country : greece","x":-380,"y":-210,"width":180,"height":50,"color":"#3872e5"}
+	],
+	"edges":[
+		{"id":"f500b5c9f4ddecd0","fromNode":"c92127101a5cd6a2","fromSide":"top","toNode":"058b67c844d9a879","toSide":"bottom"},
+		{"id":"402f3c83cdb32676","fromNode":"058b67c844d9a879","fromSide":"top","toNode":"2f01c6760eb07b7e","toSide":"bottom"},
+		{"id":"6907d77842ee4fda","fromNode":"058b67c844d9a879","fromSide":"top","toNode":"f4f3e95faf5c2d48","toSide":"bottom"},
+		{"id":"620df10ba29dcf3b","fromNode":"2f01c6760eb07b7e","fromSide":"top","toNode":"b77878d339ad6855","toSide":"bottom"},
+		{"id":"eb91ef31d05cae58","fromNode":"f4f3e95faf5c2d48","fromSide":"top","toNode":"96b9c743bba0e12e","toSide":"bottom"},
+		{"id":"50f9acb539de26ce","fromNode":"058b67c844d9a879","fromSide":"top","toNode":"2a38ed4e7f89bf41","toSide":"bottom"},
+		{"id":"a9f70e00272a8276","fromNode":"c92127101a5cd6a2","fromSide":"left","toNode":"1f1d902b2c106363","toSide":"right"}
+	]
+}

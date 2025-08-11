@@ -23,12 +23,31 @@ sudo nmap -sn -oA tnet 10.129.2.18-20| grep for | cut -d" " -f5
 
 ##### By default nmap scans with ARP ping request not with ICMP..so we need to disable arp req and enable ICMP maybe we find some more targets:
 
-
-
 #### nmap for banner grabbing :
-```
+```shell
 nmap -sV --script=banner -p21 10.10.10.0/24
 ```
 
+### NFS:
+to enumerate NFS with nmap :
 
+```shell
+sudo nmap --script nfs* 10.129.14.128 -sV -p111,2049
+```
+
+#### scanning for sql scripts : 
+```bash
+sudo nmap 10.129.14.128 -sV -sC -p3306 --script mysql*
+```
+
+### own work
+grepping only nmap ports :
+```shell
+grep "Ports:" onlyports.gnmap | sed 's/.*Ports: //' | tr ',' '\n' | awk -F '/' '$2 == "open" {print $1}' | paste -sd,
+```
+
+giving list of hosts to nmap:
+```bash
+sudo nmap -v -A -iL hosts.txt -oN /home/htb-student/Documents/host-enum
+```
 

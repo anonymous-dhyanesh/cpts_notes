@@ -4,17 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "34de2a7a3a190689",
+        "id": "0c4d866a590371c5",
         "type": "tabs",
+        "dimension": 80.62455642299503,
         "children": [
           {
-            "id": "7fc91a5c98776da1",
+            "id": "e6eb3956e0e76fe4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/tools and services/LLMNR poisoning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LLMNR poisoning"
+            }
+          },
+          {
+            "id": "13ad98de0f6357a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/tools and services/inveigh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inveigh"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7fcd8cbbd59067b3",
+        "type": "tabs",
+        "dimension": 19.37544357700497,
+        "children": [
+          {
+            "id": "2d751cc69e1ece8a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/tools and services/inveigh.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7345863357173033,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of inveigh"
             }
           }
         ]
@@ -29,7 +93,6 @@
       {
         "id": "d46aecce6a1078b0",
         "type": "tabs",
-        "dimension": 66.66666666666667,
         "children": [
           {
             "id": "42af4f1ef891900d",
@@ -69,27 +132,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2af4f3c830b17026",
-        "type": "tabs",
-        "dimension": 33.333333333333336,
-        "children": [
-          {
-            "id": "981d4ae76a88fb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/cheatsheets/nmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nmap"
             }
           }
         ]
@@ -195,59 +237,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "13ad98de0f6357a0",
   "lastOpenFiles": [
-    "notes/resources/Shell.md",
-    "notes/resources/Shells.md",
-    "notes/cheatsheets/git test.md",
-    "2025-06-18.md",
-    "obsidian.zip",
-    "notes/tools/transferring files.md",
-    "planning box notes.md",
-    "notes/how to take notes.md",
-    "notes/types of ports.md",
-    "notes/tools/vim.md",
-    "notes/tools/tmux.md",
-    "notes/tools/smbclient.md",
-    "notes/tools/netcat.md",
-    "notes/tools/SNMP.md",
-    "notes/tools/gobuster.md",
-    "notes/tools/curl.md",
-    "notes/tools/privilage escalation.md",
-    "notes/resources/CVE Details Websites.md",
-    "notes/resources/vim cheatsheet resouce.md",
-    "notes/resources/eyewitness.md",
-    "notes/resources/Payload All the Things.md",
-    "notes/cheatsheets/vim cheatsheet.md",
+    "notes/tools and services/LLMNR poisoning.md",
+    "notes/tools and services/responder.md",
+    "notes/tools and services/inveigh.md",
+    "notes/active directory/starting of AD.md",
+    "notes/tools and services/kerbrute.md",
+    "llmnr.md",
+    "notes/tools and services/curl.md",
+    "notes/tools and services/Fping.md",
+    "notes/tools and services/gobuster.md",
+    "images/nfs image.md",
+    "notes/tools and services/nmap.md",
     "notes/cheatsheets/nmap.md",
-    "notes/cheatsheets/module2 cheatsheet.md.md",
-    "notes/cheatsheets/shells and reverse shells.md",
-    "notes/tools/nmap.md",
-    "example.md",
-    "images/Pasted image 20250616135935.png",
-    "images/Pasted image 20250616140153.png",
-    "images/Pasted image 20250616140901.png",
-    "images/Pasted image 20250616135751.png",
+    "[[responder]].md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "notes/tools",
+    "notes/tools and services/CT LOGS.md",
+    "notes/resources/HackTricks.md",
+    "notes/resources/high on coffee rev shell cheatsheet.md",
+    "notes/resources/pentestLand.md",
+    "notes/resources/cpts cheatsheet.md",
+    "notes/cheatsheets/vim cheatsheet.md",
+    "notes/cheatsheets/finding ssh private key.md",
+    "notes/active directory/sample.md",
+    "notes/methodology and steps/enumeration.md",
+    "notes/methodology and steps/Footprinting.md",
+    "notes/tools and services/SSH.md",
+    "notes/tools and services/IPMI.md",
+    "notes/tools and services/reconspider.md",
+    "images/Pasted image 20250625201629.png",
+    "images/Pasted image 20250616140153.png",
+    "images/Recording 20250704142404.m4a",
+    "notes/active directory",
+    "images/Pasted image 20250625202036.png",
+    "osint/Untitled.canvas",
+    "images/Pasted image 20250616140901.png",
+    "other",
+    "osint",
+    "images/Pasted image 20250625201959.png",
+    "notes/methodology and steps",
+    "obsidian.zip",
+    "images/Pasted image 20250616135935.png",
+    "images/Pasted image 20250616135751.png",
+    "notes/tools and services",
     "notes/resources",
     "Untitled 1",
     "notes/cheatsheets",
-    "Untitled",
-    "images",
-    "notes",
-    "Blog",
-    "Vlog",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
-    "Business/Journal/Technical/Migrated/assets/iqueryable-dbcontext-everywhere.jpg",
-    "Business/Journal/Technical/Migrated/assets/image4.png",
-    "Business/Journal/Technical/Migrated/assets/image3.png",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
