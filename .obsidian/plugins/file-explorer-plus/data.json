@@ -192,6 +192,20 @@
         "type": "FILES",
         "pattern": "2025-02-16.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "notes/active directory/Active Directory Enumeration.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "notes/active directory/AD methodology.md",
+        "patternType": "STRICT"
       }
     ]
   },

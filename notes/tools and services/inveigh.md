@@ -17,6 +17,3 @@ powershell version is no longer maintained so compile it from c# into .exe
 
 IT WILL BE BETTER TO GO TO ACACDEMY FOR THIS ONE 
 
-
-
-
